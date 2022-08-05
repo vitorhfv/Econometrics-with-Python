@@ -106,7 +106,7 @@ plot_model(final, plot='forecast')
 
 # In[19]:
 
-
+# Plotting a forecast of 6 (six months)
 plot_model(final, plot='forecast', data_kwargs={'fh':6})
 
 
